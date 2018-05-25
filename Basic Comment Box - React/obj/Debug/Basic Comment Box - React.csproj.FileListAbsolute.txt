@@ -1,0 +1,71 @@
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ApplicationInsights.config
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Basic Comment Box - React.dll.config
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Basic Comment Box - React.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Basic Comment Box - React.pdb
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Antlr3.Runtime.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ClearScript.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JSPool.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.Web.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\MsieJavaScriptEngine.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Newtonsoft.Json.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Core.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Web.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Web.Mvc4.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Helpers.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Mvc.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Razor.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.Razor.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\VroomJs.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\WebActivatorEx.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\WebGrease.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\JSPool.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\MsieJavaScriptEngine.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Newtonsoft.Json.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Core.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Web.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\React.Web.Mvc4.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Helpers.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Mvc.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Razor.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.WebPages.Razor.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\VroomJs.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Antlr3.Runtime.pdb
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\Microsoft.AI.Web.xml
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.csproj.CoreCompileInputs.cache
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.pdb
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\RouteJs.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\RouteJs.Mvc5.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.React.dll
+C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.React.xml
