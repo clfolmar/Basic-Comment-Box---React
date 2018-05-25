@@ -65,7 +65,5 @@ C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\
 C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.csproj.CoreCompileInputs.cache
 C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.dll
 C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\obj\Debug\Basic Comment Box - React.pdb
-C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\RouteJs.dll
-C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\RouteJs.Mvc5.dll
 C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.React.dll
 C:\Users\cfolm\source\repos\Basic Comment Box - React\Basic Comment Box - React\bin\System.Web.Optimization.React.xml

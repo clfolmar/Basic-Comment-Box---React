@@ -44,7 +44,7 @@ namespace Basic_Comment_Box___React.Controllers
 
         public ActionResult Index()
         {
-            return View();
+            return View(_comments);
         }
 
         [HttpPost]
